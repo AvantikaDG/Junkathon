@@ -1,6 +1,6 @@
 # Junkathon
 
-Submission for the BostonHacks Junkathon 2019 - hackathon for the worst ideas!
+First prize winning submission for the BostonHacks Junkathon 2019 - hackathon for the worst ideas!
 
 ## What is the hardest part of studying?
 Distraction, right?
